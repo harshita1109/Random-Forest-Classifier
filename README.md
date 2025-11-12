@@ -117,9 +117,9 @@ The dataset includes several chemical composition features such as:
 ---
 
 ## 🏆 Author
-👤 **Your Name**  
+👤 HARSHITA SHARMA  
 💬 Passionate about Data Science & ML | Building Intelligent Systems  
-📧 your.email@example.com  
+📧 harshitash1107@gmail.com  
 
 ⭐ *If you like this project, consider giving it a star!* 🌟
 
